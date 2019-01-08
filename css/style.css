@@ -3,7 +3,7 @@
     justify-content: space-between;
     color: #0f65ef;
     font-weight: bold;
-    font-size:15px;
+    font-size: 15px;
 }
 
 .logo {
@@ -16,7 +16,7 @@ body {
 
 .siliconValley {
     width: 50%;
-    height:50%;
+    height: 50%;
 }
 
 #caption {
@@ -38,7 +38,7 @@ a {
 }
 
 .result {
-   text-align:center;
+    text-align: center;
 }
 
 button {
@@ -47,11 +47,16 @@ button {
     background-color: red;
     font-size: 40px;
     border-radius: 25px;
-    border:3px groove black ;
+    border: 3px groove black;
     font-family: monospace;
 }
 
-body{
+body {
 
-    margin-left:20px;
+    margin-left: 20px;
+}
+
+
+.answer {
+    
 }
